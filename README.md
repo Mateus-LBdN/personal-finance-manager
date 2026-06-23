@@ -6,7 +6,8 @@ A desktop application for personal financial control — track income, expenses,
 📸 Screenshots
 
 
-<img width="750" height="558" alt="projetofinancagit" src="https://github.com/user-attachments/assets/1e35eb96-c23e-415a-9bd6-cbb7c7401206" />
+<img width="910" height="693" alt="projetofinancagit" src="https://github.com/user-attachments/assets/47d09b15-4fc7-4109-8748-1bf3b4754b63" />
+
 
 
 
@@ -22,9 +23,15 @@ A desktop application for personal financial control — track income, expenses,
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-TechnologyPurposePythonCore languageTkinterDesktop GUISQLiteLocal databaseMatplotlibCharts and data visualizationPyInstallerPackaging into .exe
+| Technology | Purpose |
+|---|---|
+| Python | Core language |
+| Tkinter | Desktop GUI |
+| SQLite | Local database |
+| Matplotlib | Charts and data visualization |
+| PyInstaller | Packaging into `.exe` |
 
 
 ⚙️ How to Run
