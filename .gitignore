@@ -1,0 +1,6 @@
+*.db
+*.sqlite
+*.exe
+__pycache__/
+*.pyc
+.env
