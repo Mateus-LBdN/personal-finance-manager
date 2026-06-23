@@ -11,7 +11,7 @@ Mostrar Imagem
 📸 Screenshots
 
 
-(Add screenshots of your app here — this is the #1 thing recruiters look for)
+<img width="916" height="692" alt="image" src="https://github.com/user-attachments/assets/1772e2c7-5fa5-4c7f-8874-f85a8d5ae5dd" />
 
 
 
