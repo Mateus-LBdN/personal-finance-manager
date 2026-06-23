@@ -1,7 +1,0 @@
-app de 2 botoes 
-um para entradas (com historico)
-    a entrada deve mostrar a soma dos valores no final do mes escolhido
-    ex: adicione a entrada do mes de X (julho,agosto,...)
-outro para gastos( com categoria)
-    deve mostrar um grafico com os gastos e categorias
-    tambem deve ir pos mes com a opçao de excluir dados do mes selecionado
