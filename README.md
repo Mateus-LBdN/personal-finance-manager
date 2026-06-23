@@ -2,11 +2,6 @@
 
 A desktop application for personal financial control — track income, expenses, and visualize your financial health through interactive charts.
 
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-
 
 📸 Screenshots
 
