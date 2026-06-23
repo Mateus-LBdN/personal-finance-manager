@@ -23,9 +23,15 @@ A desktop application for personal financial control — track income, expenses,
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-TechnologyPurposePythonCore languageTkinterDesktop GUISQLiteLocal databaseMatplotlibCharts and data visualizationPyInstallerPackaging into .exe
+| Technology | Purpose |
+|---|---|
+| Python | Core language |
+| Tkinter | Desktop GUI |
+| SQLite | Local database |
+| Matplotlib | Charts and data visualization |
+| PyInstaller | Packaging into `.exe` |
 
 
 ⚙️ How to Run
