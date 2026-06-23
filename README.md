@@ -11,7 +11,7 @@ Mostrar Imagem
 📸 Screenshots
 
 
-<img width="916" height="692" alt="image" src="https://github.com/user-attachments/assets/1772e2c7-5fa5-4c7f-8874-f85a8d5ae5dd" />
+<img width="750" height="558" alt="projetofinancagit" src="https://github.com/user-attachments/assets/1e35eb96-c23e-415a-9bd6-cbb7c7401206" />
 
 
 
